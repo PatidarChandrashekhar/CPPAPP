@@ -123,6 +123,8 @@ int main() {
 
 VS Code
 
+<img width="1624" alt="Screenshot 2025-02-18 at 9 08 15 AM" src="https://github.com/user-attachments/assets/2a7e6ba4-8620-42a8-ba31-e9b8f7b0b5cc" />
+
 ## Useful CPP commands
 
 1. g++ hello.cpp
